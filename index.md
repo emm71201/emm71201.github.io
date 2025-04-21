@@ -1,4 +1,4 @@
----
+
 
 ---
 
@@ -8,8 +8,7 @@
 
 ## About me
 
-I am currently a Quantum Theory Research Associate at the Fermi National Accelerator Laboratory (Fermilab) where I conduct research in developing and benchmarking algorithms for qudit quantum computers.  
-I received my PhD under Prof. Andrei Alexandru at George Washington University, where I developed algorithms to simulate gauge theories on quantum computers.
+I am currently a Quantum Theory Research Associate at the Fermi National Accelerator Laboratory (Fermilab) where I conduct research in developing and benchmarking algorithms for qudit quantum computers. I received my PhD under Prof. Andrei Alexandru at George Washington University, where I developed algorithms to simulate gauge theories on quantum computers.
 
 ---
 
