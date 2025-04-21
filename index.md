@@ -1,8 +1,3 @@
-
----
-
----
-
 <div style="display: flex; align-items: center; gap: 20px;">
   <img src="profile.jpg" alt="Profile photo" style="width: 100px; border-radius: 50%;">
   <div>
