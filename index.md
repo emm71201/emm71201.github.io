@@ -1,4 +1,15 @@
 
+---
+
+---
+
+<div style="display: flex; align-items: center; gap: 20px;">
+  <img src="profile.jpg" alt="Profile photo" style="width: 100px; border-radius: 50%;">
+  <div>
+    <h1 style="margin-bottom: 0;">Edison M. Murairi</h1>
+    <p><a href="https://github.com/">GitHub</a> · <a href="https://linkedin.com/">LinkedIn</a></p>
+  </div>
+</div>
 
 ---
 
