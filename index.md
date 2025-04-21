@@ -1,3 +1,8 @@
+
+layout: default
+title: Edison M. Murairi
+---
+
 # Edison M. Murairi
 🔗 [GitHub](https://github.com/) · [LinkedIn](https://linkedin.com/)
 
