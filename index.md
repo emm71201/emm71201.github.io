@@ -1,5 +1,5 @@
 ---
-title: "Edison M. Murairi"
+
 ---
 
 🔗 [GitHub](https://github.com/) · [LinkedIn](https://linkedin.com/)
