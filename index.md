@@ -17,8 +17,10 @@ I am currently a Quantum Theory Research Associate at the Fermi National Acceler
 ## Contact
 
 - 📧 emurairi@fnal.gov  
-- 🔗 [GitHub](https://github.com/YOURUSERNAME)  
+- 🔗 [Inspire](https://inspirehep.net/authors/2141812?ui-citation-summary=true)  
 - 🔗 [LinkedIn](https://linkedin.com/in/YOURUSERNAME)
+
+---
 
 ## Publications
 
