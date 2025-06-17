@@ -18,7 +18,7 @@ I am currently a Quantum Theory Research Associate at the Fermi National Acceler
 
 - 📧 emurairi@fnal.gov  
 - 🔗 [Inspire](https://inspirehep.net/authors/2141812?ui-citation-summary=true)  
-- 🔗 [LinkedIn](https://linkedin.com/in/YOURUSERNAME)
+- 🔗 [LinkedIn](https://www.linkedin.com/in/edison-murairi/)
 
 ---
 
