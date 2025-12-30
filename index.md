@@ -24,6 +24,9 @@ I am currently a Quantum Theory Research Associate at the Fermi National Acceler
 
 ## Publications
 
+- *Magic State Distillation using Asymptotically Good Codes on Qudits*
+- *Quantum computation of mass gap in an asymptotically free theory
+- *Primitive Quantum Gates for an SU(3) Discrete Subgroup: Σ(72 × 3)* 
 - *Synthesis of Qutrit Circuits over the Clifford + R Gates*  
 - *Highly-Efficient Quantum Fourier Transformations for Some Non-Abelian Groups*  
 - *Primitive Quantum Gates for a SU(3) Discrete Subgroup: Σ(36 × 3)*  
